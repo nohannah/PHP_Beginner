@@ -15,3 +15,8 @@ $num = 18;
 echo $username ; 
 echo "</br>"; 
 echo $num; 
+#constant 
+define ("CONSTANT", "this is a constant");
+define ("Number",9);
+echo CONSTANT;
+echo Number;
