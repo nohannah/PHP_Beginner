@@ -8,3 +8,10 @@ $var= print("hello hannah");
 echo " Hello my name is Hannah .","Welcome to cambodia"
 
 ?>
+
+<?php 
+$username = "Hannah123";
+$num = 18; 
+echo $username ; 
+echo "</br>"; 
+echo $num; 
