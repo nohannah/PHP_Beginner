@@ -13,7 +13,7 @@ echo gettype($num);//type of variable
 
 // floats 
 $flaot=1.2;
-var_dump=($float)
+var_dump ($float);
 
 
 
