@@ -16,8 +16,14 @@ $flaot=1.2;
 var_dump ($float);
 //boolens 
 $bool=true ; 
-var_dump ($bool)
-
+var_dump ($bool);
+//string 
+$str="hello this is php";
+var_dump($str);
+//NUll
+$var="string";
+$var = NULL;
+var_dump($var); 
 
 
 
