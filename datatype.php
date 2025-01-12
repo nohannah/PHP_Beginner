@@ -14,6 +14,9 @@ echo gettype($num);//type of variable
 // floats 
 $flaot=1.2;
 var_dump ($float);
+//boolens 
+$bool=true ; 
+var_dump ($bool)
 
 
 
