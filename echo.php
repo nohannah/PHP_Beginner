@@ -20,5 +20,11 @@ define ("CONSTANT", "this is a constant");
 define ("Number",9);
 echo CONSTANT;
 echo Number;
-// 
+
+// how to comment in php 
 /* */
+//single quote and double_quote
+
+$str ="No Hannah";
+echo '$str';// print out what is inside the quote
+echo "$str"; // print out the variable name str
