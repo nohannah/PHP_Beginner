@@ -12,6 +12,11 @@ $x =10;
 $y="2";
 
 echo gettype ($y);
-var_dump($x=== $y)
+var_dump($x=== $y);
 
+// increment and decrement 
+
+$sum=9; 
+echo ++$sum;
+echo --$sum;
 ?>
