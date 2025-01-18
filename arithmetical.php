@@ -22,5 +22,5 @@
 //comparison operator 
 $x=10;
 $y=2;
-var_dump($x==$y);
+var_dump($x===$y); //(strict comparation )
 ?>
